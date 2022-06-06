@@ -32,7 +32,7 @@ I started programming in 2020, doing a Digital Technologies class. I learnt basi
 ## Contact Me
 If you would like to contact me please message me on Discord.
 
-![Discord](https://img.shields.io/badge/discord-%40Lopevi%232956-5865F2?style=flat-square&logo=discord)
+![Discord](https://img.shields.io/badge/discord-%40Lopevi%235955-5865F2?style=flat-square&logo=discord)
 
 ## Stats
 <p align="center">
