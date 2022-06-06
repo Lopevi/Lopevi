@@ -36,7 +36,7 @@ If you would like to contact me please message me on Discord.
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sfulham&show_icons=true&theme=omni">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lopevi&show_icons=true&theme=omni">
 </p>
 
 <!--
